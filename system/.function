@@ -1,0 +1,8 @@
+# Create a new directory and enter it
+mk() {
+  mkdir -p "$@" && cd "$@"
+}
+
+otooll() { otool -L $1" }
+
+otoolll() { otool -l "$1" | grep -A4 LC_RPATH }
