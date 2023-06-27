@@ -4,3 +4,10 @@
 
 [Tutorials
       - dotfiles.github.io](http://dotfiles.github.io/tutorials/)
+
+
+https://github.com/atomantic/dotfiles
+
+https://github.com/holman/dotfiles
+
+https://github.com/rkalis/dotfiles/tree/master
